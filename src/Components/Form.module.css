@@ -1,0 +1,33 @@
+.formstyle{
+    display: flex;
+    margin: 0 auto;
+    background-color: white;
+    padding: 20px;
+    box-shadow: 2px 2px 7px 4px #737373;
+    margin-top: 50px;
+    border-radius: 4px;
+    width: 50%;
+
+}
+
+.inputStyle{
+    padding :5px;
+    width: 100%;
+    border: none;
+    font-size: 18px;
+}
+
+.inputStyle:focus{
+   outline: none;
+    
+}
+
+.buttonStyle{
+    padding: 12px 20px;
+    background-color: #faca18;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+
+
+}

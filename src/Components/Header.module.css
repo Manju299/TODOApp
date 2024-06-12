@@ -1,0 +1,11 @@
+.header{
+    background-color: #faca18;
+    padding: 10px;
+    margin: 0;
+    font-weight: 700;
+    font-family: 'Arial', Courier, monospace;
+}
+body{
+    margin: 0;
+    padding: 0;
+}
